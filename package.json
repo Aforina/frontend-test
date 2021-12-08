@@ -1,0 +1,25 @@
+{
+  "name": "with-tailwindcss",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "babel-eslint": "^10.1.0",
+    "postcss": "^8.4.4",
+    "standard": "^16.0.4",
+    "tailwindcss": "^2.2.19"
+  }
+}
